@@ -1,7 +1,10 @@
-# incident-analysis-ml
+# Analyzing incidents with Machine Learning
 Implementation and comparison of various ML algorithms for classification of incident (text) data.
 
-Based on the [Cross-industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining), the data was first understood from a business perspective and subsequently divided into a multi-class classification problem with four targets:
+Based on the [Cross-industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining):
+![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/crisp_dm.png)
+
+The available data sets were first explored from a business perspective and subsequently divided into a multi-class classification problem with four targets:
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/methodology_area_cm.png)
 
 Four different Machine Learning (ML) estimators were trained on the data and three different train/test split variations were compared:
