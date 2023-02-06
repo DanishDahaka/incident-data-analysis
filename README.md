@@ -11,7 +11,7 @@ Short Summary: A comparison of supervised Machine Learning (ML) classifiers' per
     3. Results
 
 ## Why
-Installing, operating, and maintaining Offshore Wind Farms (OWF) is a field particularly prone to occupational incidents due to the hazardous work environment. Offshore Wind Farm operators thus strive to mitigate future risks by minimizing the number of incidents.
+Installing, operating, and maintaining Offshore Wind Farms (OWF) is a field particularly prone to occupational incidents due to the hazardous work environment. OWF operators thus strive to mitigate future risks by minimizing the number of incidents.
 
 ## How
 Thanks to the [Cross-industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining):
