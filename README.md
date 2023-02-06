@@ -6,9 +6,9 @@ Short Summary: A comparison of supervised Machine Learning (ML) classifiers' per
 1. Why
 2. How
 3. What
-    3.1 Classification problem
-    3.2 Data splits
-    3.3 Results
+    1. Classification problem
+    2. Data splits
+    3. Results
 
 ## Why
 Companies strive to mitigate future risks and reduce the number of incidents by learning from the past.
