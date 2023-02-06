@@ -1,9 +1,16 @@
-# Analyzing incidents with Machine Learning
-Implementation and comparison of various ML algorithms for classification of incident (text) data.
+# Analyzing incidents in the offshore wind industry
 
-Based on the [Cross-industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining):
+## Why
+Companies strive to mitigate future risks and reduce the number of incidents by learning from the past.
+
+## How
+Thanks to the [Cross-industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining):
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/crisp_dm.png)
 
+## What
+Comparison of various ML algorithms for the classification of incident data (structured numerical and unstructured text data).
+
+## Short explanation
 The available data sets were first explored from a business perspective and subsequently divided into a multi-class classification problem with four targets:
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/methodology_area_cm.png)
 
