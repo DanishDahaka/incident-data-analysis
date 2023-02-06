@@ -11,7 +11,7 @@ Short Summary: A comparison of supervised Machine Learning (ML) classifiers' per
     3. Results
 
 ## Why
-Companies strive to mitigate future risks and reduce the number of incidents by learning from the past.
+Installing, operating, and maintaining Offshore Wind Farms (OWF) is a field particu- larly prone to occupational incidents due to the hazardous work environment. Offshore Wind Farm operators strive to mitigate future risks and reduce the number of incidents by learning from the past.
 
 ## How
 Thanks to the [Cross-industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining):
