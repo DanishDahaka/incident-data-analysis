@@ -1,5 +1,15 @@
 # Analyzing incidents in the offshore wind industry
 
+Short Summary: A comparison of supervised Machine Learning classifiers' performance on unstructured text and structured nurmerical data.
+
+## Short Table of Contents
+1. Why
+2. How
+3. What
+3.1 Classification problem
+3.2 Data splits
+3.3 Results
+
 ## Why
 Companies strive to mitigate future risks and reduce the number of incidents by learning from the past.
 
@@ -8,18 +18,20 @@ Thanks to the [Cross-industry standard process for data mining (CRISP-DM)](https
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/crisp_dm.png)
 
 ## What
-Comparison of various ML algorithms for the classification of incident data (structured numerical and unstructured text data).
+Training and testing of various ML algorithms on incident data (numerical, text) to classify the physical location where an incident occured.
 
-## Short explanation
-The available data sets were first explored from a business perspective and subsequently divided into a multi-class classification problem with four targets:
+### Classification problem
+The available data sets were first explored from a business perspective and subsequently divided into a supervised multi-class classification problem with four targets:
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/methodology_area_cm.png)
+
+### Data splits
 
 Four different Machine Learning (ML) estimators were trained on the data and three different train/test split variations were compared:
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/methodology_train_test_80.png)
 
-
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/methodology_train_test_70_90.png)
 
+### Results
 
 An overview of the results for all different model and dataset variations is shown here:
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/results_summary_graph.png)
