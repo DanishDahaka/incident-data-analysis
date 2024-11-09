@@ -21,7 +21,13 @@ Thanks to the [Cross-industry standard process for data mining (CRISP-DM)](https
 Training and testing of various Machine Learning algorithms on incident data (numerical, text) to classify the physical location where an incident occured.
 
 ### Classification problem
-The available data sets were first explored from a business perspective and subsequently divided into a supervised multi-class classification problem with four targets:
+The available data sets were first explored from a business perspective. 
+The business perspective first yielded that we may focus on incident severity. 
+However, our Machine Learning classifiers did show accuracies close to random choice.
+
+Hence, we re-iterated three times in total and finally settled on classifying the location, where an incident could have happened.
+
+For multiple locations we created a supervised multi-class classification problem with four targets:
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/methodology_area_cm.png)
 
 ### Data splits
