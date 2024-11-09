@@ -36,8 +36,8 @@ Four different Machine Learning estimators were trained on the data and three di
 An overview of the results for all different model and dataset variations is shown here:
 ![](https://github.com/DanishDahaka/incident-analysis-ml/blob/main/images/results_summary_graph.png)
 
-As a key takeaway, an accuracy boost of up to **10 %** was gained through feeding the additional text data into the ML models.
-Different train/test-splits did only slightly change the ML model accuracy.
+As a key takeaway, an accuracy boost of up to **10 %** was gained through feeding the additional text data into the Machine Learning models.
+Different train/test-splits did only slightly change the Machine Learning model accuracy.
 
 Some files (e.g. accessing, joining and exploring the dataset / Latent Dirichlet Allocation / Word metrics / Keras comparison accuracies) are not part of this repository.
 If interested, feel free to ask about more info from these parts.
